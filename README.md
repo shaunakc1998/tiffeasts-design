@@ -2,12 +2,13 @@
 Tiffeasts is a unique home food delivery platform connecting customers with local home cooks, offering authentic, homemade meals delivered to your door. The Figma design ensures a clean, intuitive interface for both customers and chefs, prioritizing user-friendliness while maintaining a modern, engaging aesthetic.
 
   # Features for Home Cooks
-  1. Kitchen Information Management
-  Home cooks can enter and update their kitchen details, including the name, address, and contact information. This helps customers get accurate information about where the food is being prepared.
+  1. **Kitchen Information Management**
+  Home cooks can enter and update their kitchen details, including the name, address, and contact information. This helps customers get accurate information about where the food is being     prepared.
   
   Kitchen Name: Set a unique name for the kitchen.
   Kitchen Address: Provide the location of the home kitchen.
-  2. Business and Operational Timings
+  
+  2. **Business and Operational Timings**
   Home cooks can define their kitchen type (delivery, takeaway, or both) and set operational hours to control when they are available to take orders.
   
   Kitchen Type: Choose between home cooking, catering, or both.
