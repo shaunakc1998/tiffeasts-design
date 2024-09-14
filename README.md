@@ -45,5 +45,5 @@ Tiffeasts is a unique home food delivery platform connecting customers with loca
 
   - Open/Close Kitchen: Easily toggle the kitchen status based on when you're available to take orders.
 
-    # Features for Ordering Customers
+# Features for Ordering Customers
 
