@@ -3,7 +3,7 @@ Tiffeasts is a unique home food delivery platform connecting customers with loca
 
   # Features for Home Cooks
   1. **Kitchen Information Management**
-  - Home cooks can enter and update their kitchen details, including the name, address, and contact information. This helps customers get accurate information about where the food is being     prepared.
+  Home cooks can enter and update their kitchen details, including the name, address, and contact information. This helps customers get accurate information about where the food is being     prepared.
   
   - Kitchen Name: Set a unique name for the kitchen.
   - Kitchen Address: Provide the location of the home kitchen.
