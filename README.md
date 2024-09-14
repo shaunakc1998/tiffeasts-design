@@ -94,6 +94,16 @@ Tiffeasts is a unique home food delivery platform connecting customers with loca
 13. **Address Book**  
     Users can save and manage multiple delivery addresses. The address book allows adding or editing primary and secondary addresses.
 
+  # Screenshots
+
+1. **Ordering Customers**
+
+  <img width="339" alt="1 Onboarding Screen 1" src="https://github.com/user-attachments/assets/e5e60ccc-a869-4042-a08e-eb8f9ba13f3f">
+  <img width="291" alt="6 Mobile Verification Screen" src="https://github.com/user-attachments/assets/ff592cdf-f8e9-469b-b2a4-f5ea0fb8d6aa">
+  <img width="290" alt="8 Home Screen" src="https://github.com/user-attachments/assets/f71a1139-4252-4375-a933-bf4cf3077730">
+  <img width="281" alt="14 Order History Screen" src="https://github.com/user-attachments/assets/747e2d26-771f-42c7-8fe1-09be0327ce2a">
+
+
 
 
 
