@@ -47,3 +47,53 @@ Tiffeasts is a unique home food delivery platform connecting customers with loca
 
 # Features for Ordering Customers
 
+1. **Splash Screen**  
+   The app opens with a minimalistic splash screen showcasing the Tiffeasts logo.
+
+2. **Onboarding Screens**  
+   The onboarding process introduces customers to Tiffeasts' features. It explains the benefits of using the app, such as access to amazing home chefs, a variety of cuisines, and more.
+
+- Onboarding Screen 1: Learn about our home chefs and their delicious offerings.
+- Onboarding Screen 2: Discover the variety of cuisines, from local delicacies to regional specialties.
+- Onboarding Screen 3: See how you can take your business online as a home chef, and serve a broader market
+- Onboarding Screen 4: Explore how easy and convenient home delivery is with TiffEats.
+
+3. **OTP Verification**  
+   To ensure secure access, customers need to verify their phone number through OTP verification.
+
+- Mobile Number Input: The screen where customers enter their mobile number for verification.
+- OTP Verification: Once customers receive their OTP, they can enter it for verification.
+
+4. **User Profile Setup**  
+   After verifying their number, customers can set up their profiles by providing details like name, email address, and age.
+
+5. **Home Screen**  
+   The home screen allows customers to browse different kitchens, chefs, and cuisines. They can search by chef name, cuisine, or dish and view ratings for each kitchen.
+
+6. **Kitchen Screen**  
+   Each kitchen page showcases details like the chef's specialties, availability, delivery options, and more. Customers can also view and share the menu.
+   
+7. **Menu Screen**  
+   Customers can browse and select items from the kitchen’s menu. Each dish is listed with its price, description, and an option to add it to the order.
+
+8. **Checkout Screen**  
+   After selecting items, customers proceed to the order details screen where they can adjust quantities, select their delivery mode (delivery or takeaway), and confirm the address.
+
+9. **Payment Screen**  
+   Customers can choose a delivery slot (date and time) and see the final bill. Payment options are displayed, allowing users to complete the transaction.
+
+10. **Order Details Screen**  
+    Once the order is placed, customers can view the order summary, including items, total cost, and order OTP. They can also contact the vendor directly from this screen.
+
+11. **Order History Screen**  
+    The app stores past orders, allowing customers to view and repeat previous orders. Each order shows details like the kitchen name, order contents, and total cost.
+
+12. **User Profile Screen**  
+    The user profile section displays personal information such as name, email, and phone number. It also provides options for feedback, rating the app, and logging out.
+
+13. **Address Book**  
+    Users can save and manage multiple delivery addresses. The address book allows adding or editing primary and secondary addresses.
+
+
+
+
