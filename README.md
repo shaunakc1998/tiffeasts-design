@@ -8,11 +8,12 @@ Tiffeasts is a unique home food delivery platform connecting customers with loca
   - Kitchen Name: Set a unique name for the kitchen.
   - Kitchen Address: Provide the location of the home kitchen.
   
-  2. **Business and Operational Timings**
-  - Home cooks can define their kitchen type (delivery, takeaway, or both) and set operational hours to control when they are available to take orders.
+2. **Business and Operational Timings**  
+   Home cooks can define their kitchen type (delivery, takeaway, or both) and set operational hours to control when they are available to take orders.
   
-  Kitchen Type: Choose between home cooking, catering, or both.
-  Operational Hours: Set the exact time range during which orders can be placed.
+  - Kitchen Type: Choose between home cooking, catering, or both.
+  - Operational Hours: Set the exact time range during which orders can be placed.
+  
   3. Menu Setup
   Cooks can list the dishes they offer along with prices, giving them full control over their menu. They can update and change it whenever needed.
   
