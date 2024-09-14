@@ -102,6 +102,13 @@ Tiffeasts is a unique home food delivery platform connecting customers with loca
   <img width="291" alt="6 Mobile Verification Screen" src="https://github.com/user-attachments/assets/ff592cdf-f8e9-469b-b2a4-f5ea0fb8d6aa">
   <img width="291" alt="8 Home Screen" src="https://github.com/user-attachments/assets/f71a1139-4252-4375-a933-bf4cf3077730">
 
+1. **Home Cooks**
+<img width="291" alt="2 Home Cook Details Screen 2" src="https://github.com/user-attachments/assets/5c206250-cec9-48be-940d-f3ce071da446">
+<img width="291" alt="6 Home Cook Kitchen Screen" src="https://github.com/user-attachments/assets/de6b705e-bc0d-49f9-b5af-c8928287b967">
+<img width="291" alt="6 Home Cook Orders Screen" src="https://github.com/user-attachments/assets/8c4e399d-ae6b-439f-b94c-f97eeb8df3d4">
+
+
+
 
 
 
